@@ -1,0 +1,11 @@
+build/
+
+node_modules/
+
+reach
+
+.reach
+
+.dockerignore
+
+Dockerfile
